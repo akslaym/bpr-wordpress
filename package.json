@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "eslint-webpack-plugin": "^4.2.0",
+    "imagemin-mozjpeg": "^10.0.0",
+    "mini-css-extract-plugin": "^2.9.2",
+    "sass": "^1.83.0"
+  }
+}
